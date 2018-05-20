@@ -1,2 +1,2 @@
 first-txt-filetotest git.
-change-001.merge-test.
+change-001.merge-test.merge-002.
